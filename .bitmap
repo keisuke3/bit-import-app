@@ -1,0 +1,17 @@
+
+{
+    "keisuke3.bit-export-app/hello@0.0.1": {
+        "files": [
+            {
+                "name": "Hello.vue",
+                "relativePath": "Hello.vue",
+                "test": false
+            }
+        ],
+        "mainFile": "Hello.vue",
+        "rootDir": "components/hello",
+        "origin": "IMPORTED",
+        "originallySharedDir": "components"
+    },
+    "version": "14.8.8"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@bit/keisuke3.bit-export-app.hello",
+  "version": "0.0.1",
+  "homepage": "https://bit.dev/keisuke3/bit-export-app/hello",
+  "main": "dist/hello.common.js",
+  "componentId": {
+    "scope": "keisuke3.bit-export-app",
+    "name": "hello",
+    "version": "0.0.1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/vue@0.1.13"
+    }
+  },
+  "browser": "hello.umd.js"
+}
